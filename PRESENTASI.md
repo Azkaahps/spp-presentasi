@@ -643,15 +643,15 @@ onclick="return confirm('Hapus Data Siswa?')"
 - **Baca data:** `query()` lalu `fetchAll()` / `fetch()`, hasil dirender lewat `foreach`.
 - **Tulis data:** `prepare()` lalu `execute()`, hasil notifikasi alert dan redirect.
 
-### Slide 38 - Penutup / Sesi Tanya Jawab
+### Slide 38 - Penutup / Ucapan Terima Kasih
 
 > Sumber: tidak menampilkan kode, slide penutup presentasi.
 
-**Judul:** Sesi Tanya Jawab
+**Judul:** Terima Kasih
 
-**Kalimat pembuka sesi:**
+**Kalimat penutup:**
 
-Demikian pemaparan kami mengenai fungsi dan struktur kode pada aplikasi pembayaran SPP. Kami membuka sesi diskusi untuk pertanyaan, masukan, maupun saran dari Bapak/Ibu dan teman-teman sekalian.
+Sekian pemaparan teknis mengenai analisis fungsi, method, dan struktur kode aplikasi pembayaran SPP berbasis PHP native dan PDO. Terima kasih atas perhatian dan kesempatan yang telah diberikan oleh Bapak/Ibu guru serta rekan-rekan sekalian.
 
 **Anggota Kelompok:**
 

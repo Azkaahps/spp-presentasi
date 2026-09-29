@@ -646,19 +646,19 @@ export function S37_Alur() {
   )
 }
 
-/* ============ SLIDE 38 - PENUTUP / TANYA JAWAB ============ */
+/* ============ SLIDE 38 - PENUTUP ============ */
 export function S38_Kesimpulan() {
   return (
     <div className="slide closing-slide">
       <div className="closing-frame">
-        <span className="eyebrow">Sesi Terakhir</span>
+        <span className="eyebrow">Penutup</span>
         <h1 className="closing-title">
-          Sesi <em>Tanya Jawab</em>
+          Terima <em>Kasih</em>
         </h1>
         <p className="closing-sub">
-          Demikian pemaparan komprehensif kami mengenai analisis fungsi, method, dan struktur kode
-          aplikasi pembayaran SPP berbasis PHP native dan PDO. Kami membuka ruang diskusi untuk pertanyaan,
-          tanggapan, maupun masukan teknis dari Bapak/Ibu guru dan rekan-rekan sekalian.
+          Sekian pemaparan teknis mengenai analisis fungsi, method, dan struktur kode
+          aplikasi pembayaran SPP berbasis PHP native dan PDO. Terima kasih atas perhatian
+          dan kesempatan yang telah diberikan oleh Bapak/Ibu guru serta rekan-rekan sekalian.
         </p>
 
         <div className="closing-3d">

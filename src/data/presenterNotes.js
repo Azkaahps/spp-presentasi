@@ -417,12 +417,12 @@ export const PRESENTER_NOTES = [
   {
     slideNum: 38,
     speaker: 'Azka & Rifqi',
-    topic: 'Sesi Tanya Jawab & Penutup',
+    topic: 'Penutup & Ucapan Terima Kasih',
     script:
-      'Demikian pemaparan teknis kami mengenai analisis fungsi, method, dan struktur kode pada aplikasi pembayaran SPP berbasis PHP Native dan PDO. Kami telah membuktikan bahwa dengan penguasaan konsep yang tepat, aplikasi native sederhana sekalipun dapat dibangun dengan standar keamanan industri, arsitektur yang rapi, dan integritas data yang kokoh. Sekarang, kami mengundang Bapak/Ibu guru dan teman-teman sekalian untuk memberikan pertanyaan, masukan, maupun saran. Terima kasih.',
+      'Demikian pemaparan teknis kami mengenai analisis fungsi, method, dan struktur kode pada aplikasi pembayaran SPP berbasis PHP native dan PDO. Kami berdua mengucapkan terima kasih yang sebesar-besarnya atas perhatian, bimbingan, dan waktu yang telah diberikan oleh Bapak/Ibu guru serta rekan-rekan sekalian. Semoga apa yang kami sampaikan dapat bermanfaat. Sekian dari kami, wassalamu alaikum warahmatullahi wabarakatuh.',
     fokus:
-      'Tutup presentasi dengan rasa percaya diri, sopan, dan sambut sesi diskusi tanya jawab.',
+      'Sampaikan ucapan terima kasih dengan sikap hormat, santun, dan tutup presentasi secara formal dan tuntas.',
     qna:
-      'Tanya: Siap menjawab pertanyaan teknis seputar PDO, prepared statement, error handling, atau struktur basis data relasional.',
+      'Sesi presentasi selesai secara formal dengan penutupan dan ucapan terima kasih.',
   },
 ]

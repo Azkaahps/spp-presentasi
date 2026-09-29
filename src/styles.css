@@ -656,7 +656,7 @@ pre,
   background: var(--line-2);
 }
 
-/* ---------- Closing slide (tanya jawab) ---------- */
+/* ---------- Closing slide ---------- */
 .closing-slide {
   display: grid;
   place-items: center;

@@ -97,8 +97,8 @@ export function S02_Agenda() {
       'Manajemen referensi rombel kelas, aturan relasi Foreign Key, dan proteksi ON DELETE RESTRICT.',
     ],
     [
-      'Validasi, Alur Sistem & Tanya Jawab',
-      'Penanganan error 1062 duplicate entry, validasi form HTML5, siklus data menyeluruh, dan diskusi.',
+      'Validasi, Alur Sistem & Penutup',
+      'Penanganan error 1062 duplicate entry, validasi form HTML5, siklus data menyeluruh, dan penutup.',
     ],
   ]
   return (
